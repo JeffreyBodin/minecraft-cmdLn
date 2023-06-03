@@ -27,3 +27,68 @@ ability <player: waldy713> <ability: Ability> [value: Boolean]
 
 */
 ```
+----
+
+Is 
+
+> examples of function
+> cmdLn disp
+
+Tabulated below. Running listing of in use case cmds.
+
+### /* 1 */
+
+```JS
+
+mayfly === () === {
+  1: "ability <player: waldy713> <ability: mayfly> [value: Boolean]",
+  2: "ability <player: waldy713> [ability: mayfly]"
+}
+
+```
+
+### /* 2 */
+
+```JS
+
+_ === () === {
+  1: "ability <player: waldy713> <ability: mayfly> [value: Boolean]",
+  2: "ability <player: waldy713> [ability: mayfly]"
+}
+
+```
+
+### /* 3 */
+
+```JS
+
+_ === () === {
+  1: "ability <player: waldy713> <ability: mayfly> [value: Boolean]",
+  2: "ability <player: waldy713> [ability: mayfly]"
+}
+
+```
+
+### /* 4 */
+
+```JS
+
+_ === () === {
+  1: "ability <player: waldy713> <ability: mayfly> [value: Boolean]",
+  2: "ability <player: waldy713> [ability: mayfly]"
+}
+
+```
+
+### /* 5 */
+
+```JS
+
+_ === () === {
+  1: "ability <player: waldy713> <ability: mayfly> [value: Boolean]",
+  2: "ability <player: waldy713> [ability: mayfly]"
+}
+
+```
+
+-----
