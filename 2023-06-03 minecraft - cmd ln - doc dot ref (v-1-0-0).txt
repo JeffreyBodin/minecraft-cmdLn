@@ -1,0 +1,29 @@
+# 2023-06-03 minecraft - cmd ln - doc dot ref (v-1-0-0)
+
+-----
+
+Is
+
+> `https://minecraft.fandom.com/wiki/Commands/ability`
+
+General on howTo for entity classes and selectability.
+
+```JS
+/*
+
+
+player: target
+  // general ' param -> val ' schema of entity obj targeting
+
+ability <player: waldy713> [ability: Ability]
+  // grants the ability as a assignment
+  // func call on the ^ entity as passthrough
+
+ability <player: waldy713> <ability: Ability> [value: Boolean]
+  // flip the 0 1 for the entity as passthrough 
+  // executes fully realized as 
+     // *changes* dot **release** OR **versioning**
+  // returns callback func for the newly assigned [r0] [r1] [r2] eval
+
+*/
+```
